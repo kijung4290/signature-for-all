@@ -19,5 +19,4 @@ Google Apps Script와 단일 페이지 HTML 프런트엔드로 구현된 전자 
 
 ## 폴더 구조
 
-
-test 1234
+????
